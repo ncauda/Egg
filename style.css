@@ -7,6 +7,11 @@ header{
     padding: 20px 0;
 }
 
+header{
+    background-color: #e96a6a;
+    padding: 20px 0;
+}
+
 .contacto{
     width: 940px;
     margin: 0 auto;
